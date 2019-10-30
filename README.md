@@ -8,7 +8,7 @@
 该系统实现读者和管理员登陆，图书的增删改查，读者的增删改查，借还图书，密码修改，卡号挂失，超期提醒等功能。
 ### 如何使用
 ```
-$ git clone https://github.com/withstars/Books-Management-System
+$ git clone https://github.com/lpx-cn/Books-Management-System.git
 
 $ cd Books-Management-System
 
